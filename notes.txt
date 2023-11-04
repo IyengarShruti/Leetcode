@@ -1,0 +1,20 @@
+Type of data Structure and the identification of these problems
+Two Pointers: summation, sorting 
+Sliding Winding: Problem that says longest subarray , substring(contiguous){used with hash mostly}
+Hashing: duplicates, 
+Binary Search: finding the upper bound/lower bound, increasing/ decreasing, Sorted array(not necessary), whenever a question minimum/maximum, find an answer (aggressive cows question very imp!!!)
+Stack/Queue: (solve Monotonic stack problems: trapping rain water), next greater element, next smaller element 
+Queues: LRU cache problem!! LFU cache 
+Linkedlist: obvious to figure out 
+Bit-Manipulation: power set prblm is the only imp problem 
+Recursion: out of all ..print this, try out and give me the best, “all”, all combinations, no of ways, subset/subsequence problems, pick or not pick problems(HINT: if the constraints are very less..like 14, 15, 16..it has to be recursion )
+backtracking: Same thing , N-queens, rat and maze, sudoku, M-coloring
+Greedy Algorithm:  there is no pattern in greedy(what comes to you naturally)
+Trees: Binary Search Trees, Binary trees, Morris traversal algorithm, std interview question
+Graphs: matrix problems(no of islands, multi source bfs), shortest path(source dest- dijstras), disjoint sets(two elements belong to one component), mst, bfs, dfs, topological problem(course schedule and alien dictionary)
+use a separate checklist:-
+
+DP: 1D, 2D, 
+Tries: search in a substring/ longest prefix, suffix,zor
+Strings: Kmp, 
+
