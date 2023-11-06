@@ -1,8 +1,7 @@
 //Leetcode 938
 //URl: https://leetcode.com/problems/range-sum-of-bst/
 
-
-/**
+/*
  * Definition for a binary tree node.
  * public class TreeNode {
  *     int val;
